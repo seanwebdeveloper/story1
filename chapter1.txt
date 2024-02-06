@@ -1,5 +1,7 @@
 This is the first line of the story.
 This is the second line of the story.
 This is the thrid line of the story.
-This is the fourth line of the story.
+
 This is the fifth line of the story.
+This is the sixth line of the story.
+This is the seventh line of the story.
